@@ -24,7 +24,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshot
 
-Challenge-1.png
+<img src="Challenge-1.png"></img>
 
 ## Link
 
