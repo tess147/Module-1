@@ -10,7 +10,7 @@ SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria:
 
-GIVEN a webpage meets accessibility standards
+<p>GIVEN a webpage meets accessibility standards</p>
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
@@ -26,9 +26,9 @@ THEN I find a concise, descriptive title
 
 <img src="Challenge-1.png"></img>
 
-## Link
+## Links
 
-
+<link href="https://github.com/tess147/Module-1">Repository</link>
 
 ## Authors
 
