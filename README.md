@@ -10,7 +10,8 @@ SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria:
 
-<p>GIVEN a webpage meets accessibility standards</p>
+<ul>
+<li>GIVEN a webpage meets accessibility standards</li>
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
@@ -21,6 +22,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+</ul>
 
 ## Screenshot
 
@@ -28,7 +30,8 @@ THEN I find a concise, descriptive title
 
 ## Links
 
-<a href="https://github.com/tess147/Module-1">Repository</a>
+<a href="https://github.com/tess147/Module-1">Repository URL</a>
+<a href="https://tess147.github.io/Module-1/">Deployed Application URL</a>
 
 ## Authors
 
