@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 
 ## Links
 
-<link href="https://github.com/tess147/Module-1">Repository</link>
+<a href="https://github.com/tess147/Module-1">Repository</a>
 
 ## Authors
 
